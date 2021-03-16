@@ -4,8 +4,7 @@ I'm Jason.
 
 ### Bottom Line Up Front:
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a [Bacon number](https://oracleofbacon.org/movielinks.php) of 3, and I have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 5.
-- 💬 Interested in learning about your open software developer and data analysis positions
+- ⚡ Fun fact: I have a [Bacon number](https://oracleofbacon.org/movielinks.php) of 3, and I have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 6.
 
 
 ### My programming
